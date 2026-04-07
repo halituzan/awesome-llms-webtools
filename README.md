@@ -50,13 +50,6 @@ Runs the Vite client on **http://127.0.0.1:5173** (proxies `/api` to the server 
 - **Client-rendered** SPAs may yield incomplete HTML; this tool does not run a headless browser by default.
 - **Rate limits**: be kind to third-party sites; defaults cap pages and depth.
 
-## Live demo
-
-Replace with your deployed URL: `https://yourdomain.com/`
-
-## Screenshots
-
-Add screenshots under `docs/screenshots/` (optional) and link them here for a nicer README.
 
 ## License
 
