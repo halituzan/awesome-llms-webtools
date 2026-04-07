@@ -7,7 +7,7 @@ Turn any **public** website into an **LLM-ready ingestion bundle** (ZIP): `llms.
 ## One-step usage
 
 ```bash
-git clone <your-repo-url> && cd awesome-llms-webtools
+git clone https://github.com/halituzan/awesome-llms-webtools.git && cd awesome-llms-webtools
 npm install && npm install --prefix client && npm install --prefix server
 npm run build
 npm start
